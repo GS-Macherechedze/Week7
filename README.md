@@ -42,6 +42,7 @@ Provided CSV file with the following columns:
    - **Pie Chart:** Expense distribution by category.
    - **Table:** Data summary with all columns.
    - **Custom Metrics:** Calculate total expenses, average monthly income, and total financial aid received.
+     
    **Advanced Analysis:**
      - **Comparison by Major:** Create a bar chart to compare total expenses across different majors. This can reveal if certain majors correlate with higher or lower spending patterns.
      - **Expense-to-Income Ratio:** Calculate and visualize the ratio of total expenses to monthly income for each individual. This helps in understanding financial sustainability.
