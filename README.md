@@ -1,4 +1,4 @@
-# Data Presentation Essentials
+# Week 7 Assignment: Data Presentation Essentials
 
 ## Objective:
 Develop an advanced interactive dashboard using the provided student expense data. This project requires in-depth data analysis and sophisticated visualization techniques.
