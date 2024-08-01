@@ -4,7 +4,7 @@
 Develop an advanced interactive dashboard using the provided student expense data. This project requires in-depth data analysis and sophisticated visualization techniques.
 
 ## Tools:
-Students may use:
+You may use:
 - Google Sheets
 - Microsoft Excel
 - Power BI
