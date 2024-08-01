@@ -11,7 +11,7 @@ You may use:
 - A website (HTML, CSS, JavaScript)
 
 ## Dataset:
-Provided CSV file with the following columns:
+Provided file with the following columns:
 - Age
 - Gender
 - Year in School
