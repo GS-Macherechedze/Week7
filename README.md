@@ -42,6 +42,13 @@ Provided CSV file with the following columns:
    - **Pie Chart:** Expense distribution by category.
    - **Table:** Data summary with all columns.
    - **Custom Metrics:** Calculate total expenses, average monthly income, and total financial aid received.
+   **Advanced Analysis:**
+     - **Comparison by Major:** Create a bar chart to compare total expenses across different majors. This can reveal if certain majors correlate with higher or lower spending patterns.
+     - **Expense-to-Income Ratio:** Calculate and visualize the ratio of total expenses to monthly income for each individual. This helps in understanding financial sustainability.
+     - **Financial Aid vs. Expenses:** Analyze how financial aid impacts total expenses by comparing individuals with different levels of financial aid. This can highlight the role of financial support in managing expenses.
+     - **Spending Trends:** Identify any notable spending trends over time, if applicable. This could reveal seasonal or periodic spending behaviours.
+     - **Major vs. Financial Aid:** Analyze the relationship between financial aid and major. This can show if certain majors receive more financial aid and how it correlates with spending.
+
 
 3. **Interactivity:**
    - Dropdown menus, filters, or slicers for customized data views.
