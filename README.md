@@ -71,7 +71,7 @@ Provided file with the following columns:
    - Custom graphics or icons.
 
 ## Submission:
-- Upload to this repo
+- Upload your pitch deck to this repo and include your dashboard link and your week 5 website git link
 
 ## Evaluation Criteria:
 - **Data Preparation (20%)**: Data import and cleaning.
