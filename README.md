@@ -71,9 +71,7 @@ Provided file with the following columns:
    - Custom graphics or icons.
 
 ## Submission:
-- **Google Sheets / Microsoft Excel:** Share the link or submit the file.
-- **Power BI:** Publish and share the link or submit the .pbix file.
-- **Website:** Host the site and share the link.
+- Upload to this repo
 
 ## Evaluation Criteria:
 - **Data Preparation (20%)**: Data import and cleaning.
@@ -81,9 +79,6 @@ Provided file with the following columns:
 - **Interactivity (20%)**: Functionality and user experience.
 - **Insights and Analysis (20%)**: Quality of insights.
 - **Presentation (10%)**: Visual appeal and professionalism.
-
-## Due Date:
-[Insert Due Date]
 
 ## Resources:
 - **Google Sheets:** [Google Sheets Help Center](https://support.google.com/docs/topic/9054605)
